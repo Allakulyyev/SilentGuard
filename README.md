@@ -4,6 +4,8 @@
 
 # SilentGuard Telegram Bot
 
+🌐 [🇷🇺 Русский](README.ru.md)
+
 [![Python](https://img.shields.io/badge/python-3.10+-blue?style=flat&logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Aiogram](https://img.shields.io/badge/Powered%20by-Aiogram%203-blueviolet?logo=telegram)](https://docs.aiogram.dev/)
@@ -22,16 +24,12 @@ It automatically detects and bans users who send offensive messages, have inappr
 -   🔐 Secure and easily configurable
 -   💡 Lightweight and easy to set up
 
----
-
 ## 🚀 Technologies Used
 
 -   **Python 3.10+**
 -   [Aiogram 3](https://docs.aiogram.dev/) — Telegram Bot Framework (async)
 -   [`python-dotenv`](https://pypi.org/project/python-dotenv/) — for environment config
 -   Standard libraries: `logging`, `asyncio`, `difflib`, `pathlib`
-
----
 
 ## 📁 Project Structure
 
@@ -51,8 +49,6 @@ SilentGuard/
 ├── .gitignore
 └── README.md
 </pre>
-
----
 
 ## ⚙️ Installation
 
@@ -74,8 +70,6 @@ pip install -r requirements.txt
 BOT_TOKEN = your_telegram_bot_token
 ```
 
----
-
 ## 🧠 How It Works
 
 ### When added to a Telegram group (as admin), SilentGuard:
@@ -84,8 +78,6 @@ BOT_TOKEN = your_telegram_bot_token
 -   If a user joins with a suspicious name or username, they are banned
 -   If a user sends a message with blacklisted words, the message is deleted and the user is banned
 -   If their bio contains blacklisted content, they are also banned
-
----
 
 ## ✅ Example: Blacklist File (data/blacklist.txt)
 
@@ -99,8 +91,6 @@ free money
 subscribe to my channel
 ```
 
----
-
 ## 📌 Admin Setup
 
 -   Add the bot to your group
@@ -112,8 +102,6 @@ subscribe to my channel
 
 -   Edit data/blacklist.txt to fit your needs
 
----
-
 ## ▶️ Running the Bot
 
 Once everything is set up:
@@ -123,8 +111,6 @@ python bot.py
 ```
 
 The bot will start polling and protecting your group.
-
----
 
 ## 📋 To Do – Optional Enhancements
 
@@ -139,8 +125,6 @@ The bot will start polling and protecting your group.
 
 -   **Anti-flood system**  
     Detect and mute or ban users who send too many messages in a short time.
-
----
 
 ## 📝 License
 
