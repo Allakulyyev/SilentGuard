@@ -103,7 +103,9 @@ BOT_TOKEN = your_telegram_bot_token
 
 После того как все настроено:
 
+```bash
 python bot.py
+```
 
 Бот начнёт опрос и будет защищать вашу группу.
 
