@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/zhJnJb9D/1.png" alt="SilentGuard Banner" width="100%">
+  <img src="assets/banner.png" alt="SilentGuard Banner" width="100%">
 </p>
 
 # SilentGuard Telegram Bot
@@ -44,6 +44,8 @@ SilentGuard/
 ├── utils.py 
 ├── data/
 │   └── blacklist.txt  
+├── assets/
+│   └── banner.png
 ├── requirements.txt 
 ├── .env 
 ├── .gitignore
