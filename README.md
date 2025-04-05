@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/TBLvLRjd/1.png" alt="SilentGuard Banner" width="100%">
+  <img src="https://i.ibb.co/zhJnJb9D/1.png" alt="SilentGuard Banner" width="100%">
 </p>
 
 # SilentGuard Telegram Bot
@@ -142,4 +142,4 @@ The bot will start polling and protecting your group.
 
 ## 📝 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](LICENSE).
