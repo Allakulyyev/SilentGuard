@@ -9,7 +9,8 @@
 [![Python](https://img.shields.io/badge/python-3.10+-blue?style=flat&logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Aiogram](https://img.shields.io/badge/Powered%20by-Aiogram%203-blueviolet?logo=telegram)](https://docs.aiogram.dev/)
-[![GitHub stars](https://img.shields.io/github/stars/your_username/SilentGuard?style=social)](https://github.com/your_username/SilentGuard/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Allakulyyev/SilentGuard?style=social)](https://github.com/Allakulyyev/SilentGuard/stargazers)
+![Hits](https://hits.sh/github.com/Allakulyyev/SilentGuard.svg?label=views&color=green&logo=github)
 
 SilentGuard is a powerful Telegram group moderation bot built with Python and Aiogram 3.  
 It automatically detects and bans users who send offensive messages, have inappropriate bios, or try to impersonate admins.
